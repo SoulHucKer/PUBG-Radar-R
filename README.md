@@ -69,6 +69,7 @@ You can replay a PCAP file in offline mode:
 [IntelliJ IDEA](https://www.jetbrains.com/idea/?fromMenu)
 
 ## Install
+
 #### On 2nd PC or VMWARE: (This is the pc that will run the radar)
 Step 1. Search and run "cmd" - This should open the command prompt. 
 Step 2. type "ipconfig" and press enter.
@@ -96,6 +97,7 @@ Step 20. Select Allow Access
 Step 21. DONE. Now to setup the Gaming PC.
 
 #### On Gaming PC: (This is the PC that will run PUBG)
+
 Step 1. Search and run "ncpa.cpl"
 Step 2. Right click your primary internet adapter, then click properties.
 Step 3. Select "Internet Protocol Version 4 (TCP/IPv4)" 
@@ -120,7 +122,7 @@ Step 14. Connect to the VPN that you created.
 Step 15. If you were able to connect, you are done!
 
 Credits: Windows x64 (https://www.unknowncheats.me/forum/2019485-post220.html)
-
+----------------- 
 ## Run
 ```
 @echo off
