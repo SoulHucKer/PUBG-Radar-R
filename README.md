@@ -124,7 +124,7 @@ Click Save.
 
 Credits: Windows x64 (https://www.unknowncheats.me/forum/2019485-post220.html)
 
-
+## Fix OpenGL
 If u have OpenGL error try this: https://www.unknowncheats.me/forum/2029515-post248.html
 Edit: GLMap.kt ``` PUBG-Radar/src/main/kotlin/pubg/radar/ui/GLMap.kt ```
 
