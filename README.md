@@ -70,45 +70,45 @@ You can replay a PCAP file in offline mode:
 
 ## Install
 #### On 2nd PC or VMWARE: (This is the pc that will run the radar)
-Step 1: Search and run "cmd" - This should open the command prompt. 
-Step 2: type "ipconfig" and press enter.
-Step 3: Take note of your IPv4 address for VPN Settings on gaming pc. 
-Step 4: Take note of your default gateway. 
-Step 5: Search and run "ncpa.cpl"
-Step 6: Right click your primary internet adapter, then click properties.
-Step 7: Select "Internet Protocol Version 4 (TCP/IPv4)" 
-Step 8: Use "Obatain an IP address automatically" and "Obtain 
+Step 1. Search and run "cmd" - This should open the command prompt. 
+Step 2. type "ipconfig" and press enter.
+Step 3. Take note of your IPv4 address for VPN Settings on gaming pc. 
+Step 4. Take note of your default gateway. 
+Step 5. Search and run "ncpa.cpl"
+Step 6. Right click your primary internet adapter, then click properties.
+Step 7. Select "Internet Protocol Version 4 (TCP/IPv4)" 
+Step 8. Use "Obatain an IP address automatically" and "Obtain 
 DNS server address automatically"
-Step 9: Click "OK"
-Step 10: Uncheck "Internet Protocol Version 6 (TCP/IPv6)
-Step 11: Click OK. - The PC may need up to 10 minutes for settings to refresh.
-Step 12: On your keyboard, Press ALT - File will now appear on the top left.
-Step 13: Click File, Then click "New Incoming Connection"
-Step 14: Add someone (bottom left) - Make username and password - click ok - Then click Next.
-Step 15: Checkmark "Through the Internet" - Then click Next.
-Step 16: Select "Internet Protocol Version 4 (Already selected by default, make sure it is checkmarked" Then select "properties"
-Step 17: Make sure "Network Access" is checked
-Step 18: Under "IP address assignment" Check "Specifiy IP Addresses" 
-Step 19: Use your Default Gateway from earlier, to create a proper IP range for "Specify IP addresses"
+Step 9. Click "OK"
+Step 10. Uncheck "Internet Protocol Version 6 (TCP/IPv6)
+Step 11. Click OK. - The PC may need up to 10 minutes for settings to refresh.
+Step 12. On your keyboard, Press ALT - File will now appear on the top left.
+Step 13. Click File, Then click "New Incoming Connection"
+Step 14. Add someone (bottom left) - Make username and password - click ok - Then click Next.
+Step 15. Checkmark "Through the Internet" - Then click Next.
+Step 16. Select "Internet Protocol Version 4 (Already selected by default, make sure it is checkmarked" Then select "properties"
+Step 17. Make sure "Network Access" is checked
+Step 18. Under "IP address assignment" Check "Specifiy IP Addresses" 
+Step 19. Use your Default Gateway from earlier, to create a proper IP range for "Specify IP addresses"
 For instance: if gateway is 192.168.0.1 - use 192.168.0.2 to 192.168.0.10 for 
 the ip range. - Then select "OK"
-Step 20: Select Allow Access
-Step 21: DONE. Now to setup the Gaming PC.
+Step 20. Select Allow Access
+Step 21. DONE. Now to setup the Gaming PC.
 
 #### On Gaming PC: (This is the PC that will run PUBG)
-Step 1: Search and run "ncpa.cpl"
-Step 2: Right click your primary internet adapter, then click properties.
-Step 3: Select "Internet Protocol Version 4 (TCP/IPv4)" 
-Step 4: Use "Obtain an IP address automatically" and "Obtain DNS server address automatically"
-Step 5: Click "OK"
-Step 6: Uncheck "Internet Protocol Version 6 (TCP/IPv6)
-Step 7: Click OK. - The PC may need up to 10 minutes for settings to refresh. Now close out the "Network Connections" window.
-Step 8: Click your windows button (default location bottom left)
-Step 9: Click the settings cog
-Step 10: Click "Network & Internet"
-Step 11: Click "VPN" on left side
-Step 12: Click "Add a VPN Connection" on the top
-Step 13: Use these settings:
+Step 1. Search and run "ncpa.cpl"
+Step 2. Right click your primary internet adapter, then click properties.
+Step 3. Select "Internet Protocol Version 4 (TCP/IPv4)" 
+Step 4. Use "Obtain an IP address automatically" and "Obtain DNS server address automatically"
+Step 5. Click "OK"
+Step 6. Uncheck "Internet Protocol Version 6 (TCP/IPv6)
+Step 7. Click OK. - The PC may need up to 10 minutes for settings to refresh. Now close out the "Network Connections" window.
+Step 8. Click your windows button (default location bottom left)
+Step 9. Click the settings cog
+Step 10. Click "Network & Internet"
+Step 11. Click "VPN" on left side
+Step 12. Click "Add a VPN Connection" on the top
+Step 13. Use these settings:
 VPN Provider: Windows (built-in)
 Connection name: Random name
 Server name or address: Insert 2nd PC IPv4 address from cmd prompt on 2nd pc
@@ -116,8 +116,8 @@ VPN type: PPTP
 User name: User you made on incoming connections on 2nd pc
 Password: Password you made on incoming connections on 2nd pc
 Click Save.
-Step 14: Connect to the VPN that you created.
-Step 15: If you were able to connect, you are done!
+Step 14. Connect to the VPN that you created.
+Step 15. If you were able to connect, you are done!
 
 Credits: Windows x64 (https://www.unknowncheats.me/forum/2019485-post220.html)
 
