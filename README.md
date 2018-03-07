@@ -131,6 +131,7 @@ change this:
 ``` config.useOpenGL3(true, 3, 3) ```
 to this:
 ``` config.useOpenGL3(true, 2, 1) ```
+
 ----------------- 
 ## Run
 ```
