@@ -124,7 +124,8 @@ Click Save.
 
 Credits: Windows x64 (https://www.unknowncheats.me/forum/2019485-post220.html)
 
-#### Or use openvpn https://community.openvpn.net/openvpn/wiki/Easy_Windows_Guidehttps://community.openvpn.net/openvpn/wiki/Easy_Windows_Guide
+#### Or use openvpn
+https://community.openvpn.net/openvpn/wiki/Easy_Windows_Guidehttps://community.openvpn.net/openvpn/wiki/Easy_Windows_Guide
 
 ----------------- 
 ## Run
