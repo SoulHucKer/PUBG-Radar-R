@@ -32,16 +32,6 @@ You can't filter level 3 gear (always enabled)
 * F9 ->  Camera Zoom ++
 * F10 -> Camera Zoom --
 
-
-### Online Mode:
-`java -jar target\pubg-radar-1.0-SNAPSHOT-jar-with-dependencies.jar "Middle PC IP" PortFilter "Game PC IP"`
-
-### Offline Mode:
-You can replay a PCAP file in offline mode:
-
-`java -jar target\pubg-radar-1.0-SNAPSHOT-jar-with-dependencies.jar "Middle PC IP" PortFilter "Game PC IP" Offline`
-
-
 ## Build
 
 * Step 1. Install [Maven](https://maven.apache.org/install.html)
@@ -129,6 +119,16 @@ https://community.openvpn.net/openvpn/wiki/Easy_Windows_Guide
 
 ----------------- 
 ## Run
+
+### Online Mode:
+`java -jar target\pubg-radar-1.0-SNAPSHOT-jar-with-dependencies.jar "Middle PC IP" PortFilter "Game PC IP"`
+
+### Offline Mode:
+You can replay a PCAP file in offline mode:
+
+`java -jar target\pubg-radar-1.0-SNAPSHOT-jar-with-dependencies.jar "Middle PC IP" PortFilter "Game PC IP" Offline`
+
+#### Bat with aute get ipv4
 ```
 @echo off
 for /f "tokens=14" %%a in ('ipconfig ^| findstr IPv4') do set _IPaddr=%%a
