@@ -1,6 +1,7 @@
 ## PUBG-Radar ![Imgur](https://i.imgur.com/n3JtN5d.png)
 
 #### By engaging with this repository you explicitly agree with the terms of the Unlicense.
+### Don't use on game pc or u will get banned!!!
 
 ![Imgur](https://i.imgur.com/2bCpNog.gif)
 
