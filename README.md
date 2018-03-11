@@ -61,6 +61,7 @@ You can't filter level 3 gear (always enabled)
 
 ## Install
 VM Install - https://www.youtube.com/watch?v=zwe4xDQOAfg
+Xbox set-up: https://support.xbox.com/en-US/xbox-one/networking/connect-live-using-pc
 
 #### On 2nd PC or VMWARE: (This is the pc that will run the radar)
 * Step 1. Search and run "cmd" - This should open the command prompt. 
