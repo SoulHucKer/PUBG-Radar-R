@@ -13,18 +13,27 @@ You can't filter level 3 gear (always enabled)
 * HOME -> Show / Hide Compass
 * NUMPAD_0 -> Filter Throwables
 * NUMPAD_1 -> Filter Attachments
-* NUMPAD_2 -> Filter Scopes 
-* NUMPAD_3 -> Filter Ammo 
+* NUMPAD_2 -> Filter Scopes
+* NUMPAD_3 -> Filter Ammo
 * NUMPAD_4 -> Filter Weapons
 * NUMPAD_5 -> Filter Level 2 Gear          
 * NUMPAD_6 -> Filter Meds
-           
+
 #### Icon Toggles
 
-
-* F6 -> Toggle Vehicle Names 
-* F7 -> Toggle Vehicles 
+* F5 -> Toggle Vehicle Names
+* F6 -> Toggle Vehicles
 * F11 -> Toggle View Line
+
+#### Toggle Player Information
+
+* F7 -> Combat Mode (Hides Items, Corpses)
+* F8 -> Player Information Panel 1-4
+
+1. Distance, Name, Kills, Health, Weapons
+2. Distance, Name, Kills, Health
+3. Distance, Health, Weapons
+4. Distance, Health
 
 #### Zooms:
 * NUMPAD_7 -> Scouting
